@@ -1,0 +1,9 @@
+{
+  "INPUT_VIDEO_FILENAME": "input_video.mp4",
+  "POSE_MODEL_COMPLEXITY": 1,
+  "DISPLAY_RESULTS": true,
+  "SAVE_PROCESSED_COORDINATES": true,
+  "PROCESSED_COORDS_FILENAME": "pose_coordinates.csv",
+  "SAVE_OUTPUT_VIDEO": false,
+  "OUTPUT_VIDEO_FILENAME": "output_pose_video.mp4"
+}
